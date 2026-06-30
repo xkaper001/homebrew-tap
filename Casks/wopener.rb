@@ -1,6 +1,6 @@
 cask "wopener" do
-  version "1.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "1.1.0"
+  sha256 "ec103e37362a61c57fffe4eab31494ef8b97d3ee625076ea9e36ea0f363afddb"
 
   url "https://github.com/xkaper001/wopener/releases/download/v#{version}/Wopener-#{version}.dmg"
   name "Wopener"
