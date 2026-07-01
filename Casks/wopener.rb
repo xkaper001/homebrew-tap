@@ -7,7 +7,7 @@ cask "wopener" do
   desc "A Web Opener Apple forgot."
   homepage "https://wopener.com"
 
-  depends_on macos: ">= :tahoe" # macOS 26+
+  depends_on macos: :tahoe
 
   app "Wopener.app"
 
